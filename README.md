@@ -1,6 +1,8 @@
 
 # Log Analysis Script
 
+## Made by: Anuj Pandey
+
 ## Project Overview
 
 This script analyzes web server log files to extract meaningful insights such as:
